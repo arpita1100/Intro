@@ -50,4 +50,4 @@ Files -
 - This controller contains end-points related to entity pref.
 
 ### EntityAccessService
-- 
+- It is used to manage access privileges according to their role in an organization.
